@@ -2,6 +2,8 @@
   // Имя должно совпадать с именем Worker в Cloudflare
   "name": "small-mode-cd71",
   "compatibility_date": "2026-09-01",
+  // Домен остаётся привязан к этому Worker при каждой выкладке
+  "routes": [{ "pattern": "xebecweb.com", "custom_domain": true }],
   "assets": {
     "directory": "./public",
     "not_found_handling": "404-page"
