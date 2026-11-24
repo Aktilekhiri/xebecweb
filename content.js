@@ -17,7 +17,7 @@ module.exports = {
   TELEGRAM: "AktilekKaziev",        // ник без @
   WHATSAPP: "996702097127",         // номер только цифрами
   WHATSAPP_SHOW: "+996 702 097 127",
-  EMAIL: "xebecweb.com@gmail.com",   // показывается на сайте; на него же приходят заявки из формы
+  EMAIL: "kazievaktilek41@gmail.com",   // показывается на сайте; на него же приходят заявки из формы
   // Ключ Web3Forms (web3forms.com → Create Access Key → придёт на почту). Он не секретный.
   WEB3FORMS_KEY: "2775c044-11af-4d92-966e-4e2f38633ee0",
   INSTAGRAM: "just_aktilek",
